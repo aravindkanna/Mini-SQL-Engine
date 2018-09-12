@@ -2,7 +2,7 @@
 A Mini SQL Engine implemented in PYTHON
 
 Type of Queries implemented here:​
-
+kuch bhi
 1.   Select all records : Select * from table_name; 
 
 2.   Aggregate functions: Simple aggregate functions on a single column. 
