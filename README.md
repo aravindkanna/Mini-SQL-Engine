@@ -1,4 +1,4 @@
-# Mini-SQL-Engine
+# Mini-SQL-Engine - Engine
 A Mini SQL Engine implemented in PYTHON
 new line added
 
